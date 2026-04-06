@@ -1,0 +1,2 @@
+# Clustering-Analysis-of-US-Census-Data-1990-using-K-Means-Hierarchical-DBSCAN-Clustering-
+Machine learning project analyzing U.S. Census (1990) data using unsupervised learning. Applied K-Means, Hierarchical Clustering, and DBSCAN with PCA visualization to uncover population patterns and outliers. Evaluated models using Elbow Method, Silhouette Scores, and dendrograms to compare clustering performance and demographic insights.
