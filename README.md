@@ -1,4 +1,4 @@
-# Clustering-Analysis-of-US-Census-Data-1990-using-K-Means-Hierarchical-DBSCAN-Clustering-
+# Clustering-Analysis-of-US-Census-Data-1990-using-K-Means-Hierarchical-DBSCAN-Clustering
 
 ## OVERVIEW
 
